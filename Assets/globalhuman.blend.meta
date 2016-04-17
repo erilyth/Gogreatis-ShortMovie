@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: 88621f9244b313e4484babe92e188b8f
+timeCreated: 1460863980
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle_L
+    100002: ankle_R
+    100004: Armature
+    100006: armLower_L
+    100008: armLower_R
+    100010: armUpper_L
+    100012: armUpper_R
+    100014: body
+    100016: chest
+    100018: Cube
+    100020: finger_L_0_0
+    100022: finger_L_0_1
+    100024: finger_L_0_2
+    100026: finger_L_1_0
+    100028: finger_L_1_1
+    100030: finger_L_1_2
+    100032: finger_L_2_0
+    100034: finger_L_2_1
+    100036: finger_L_2_2
+    100038: finger_L_3_0
+    100040: finger_L_3_1
+    100042: finger_L_3_2
+    100044: finger_L_4_0
+    100046: finger_L_4_1
+    100048: finger_L_4_2
+    100050: finger_R_0_0
+    100052: finger_R_0_1
+    100054: finger_R_0_2
+    100056: finger_R_1_0
+    100058: finger_R_1_1
+    100060: finger_R_1_2
+    100062: finger_R_2_0
+    100064: finger_R_2_1
+    100066: finger_R_2_2
+    100068: finger_R_3_0
+    100070: finger_R_3_1
+    100072: finger_R_3_2
+    100074: finger_R_4_0
+    100076: finger_R_4_1
+    100078: finger_R_4_2
+    100080: foot_0_L
+    100082: foot_0_R
+    100084: foot_L
+    100086: foot_R
+    100088: //RootNode
+    100090: hand_L
+    100092: hand_R
+    100094: head
+    100096: legLower_L
+    100098: legLower_R
+    100100: legUpper_L
+    100102: legUpper_R
+    100104: neck
+    100106: pelvis_L
+    100108: pelvis_R
+    100110: root
+    100112: rootLower
+    100114: rootUpper
+    100116: shoulder_L
+    100118: shoulder_R
+    100120: toes_L
+    100122: toes_R
+    400000: ankle_L
+    400002: ankle_R
+    400004: Armature
+    400006: armLower_L
+    400008: armLower_R
+    400010: armUpper_L
+    400012: armUpper_R
+    400014: body
+    400016: chest
+    400018: Cube
+    400020: finger_L_0_0
+    400022: finger_L_0_1
+    400024: finger_L_0_2
+    400026: finger_L_1_0
+    400028: finger_L_1_1
+    400030: finger_L_1_2
+    400032: finger_L_2_0
+    400034: finger_L_2_1
+    400036: finger_L_2_2
+    400038: finger_L_3_0
+    400040: finger_L_3_1
+    400042: finger_L_3_2
+    400044: finger_L_4_0
+    400046: finger_L_4_1
+    400048: finger_L_4_2
+    400050: finger_R_0_0
+    400052: finger_R_0_1
+    400054: finger_R_0_2
+    400056: finger_R_1_0
+    400058: finger_R_1_1
+    400060: finger_R_1_2
+    400062: finger_R_2_0
+    400064: finger_R_2_1
+    400066: finger_R_2_2
+    400068: finger_R_3_0
+    400070: finger_R_3_1
+    400072: finger_R_3_2
+    400074: finger_R_4_0
+    400076: finger_R_4_1
+    400078: finger_R_4_2
+    400080: foot_0_L
+    400082: foot_0_R
+    400084: foot_L
+    400086: foot_R
+    400088: //RootNode
+    400090: hand_L
+    400092: hand_R
+    400094: head
+    400096: legLower_L
+    400098: legLower_R
+    400100: legUpper_L
+    400102: legUpper_R
+    400104: neck
+    400106: pelvis_L
+    400108: pelvis_R
+    400110: root
+    400112: rootLower
+    400114: rootUpper
+    400116: shoulder_L
+    400118: shoulder_R
+    400120: toes_L
+    400122: toes_R
+    2300000: Cube
+    3300000: Cube
+    4300000: Cube
+    4300002: body
+    7400000: Default Take
+    7400002: ArmatureAction_001
+    7400004: globalhuman
+    7400006: PoseLib
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/ankle_L
+        weight: 1
+      - path: Armature/ankle_L/foot_L
+        weight: 1
+      - path: Armature/ankle_L/foot_L/toes_L
+        weight: 1
+      - path: Armature/ankle_R
+        weight: 1
+      - path: Armature/ankle_R/foot_R
+        weight: 1
+      - path: Armature/ankle_R/foot_R/toes_R
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/rootLower
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L/legLower_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L/legLower_L/foot_0_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R/legLower_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R/legLower_R/foot_0_R
+        weight: 1
+      - path: Armature/root/rootUpper
+        weight: 1
+      - path: Armature/root/rootUpper/chest
+        weight: 1
+      - path: Armature/root/rootUpper/chest/neck
+        weight: 1
+      - path: Armature/root/rootUpper/chest/neck/head
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0/finger_L_0_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0/finger_L_0_1/finger_L_0_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0/finger_L_1_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0/finger_L_1_1/finger_L_1_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0/finger_L_2_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0/finger_L_2_1/finger_L_2_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0/finger_L_3_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0/finger_L_3_1/finger_L_3_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0/finger_L_4_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0/finger_L_4_1/finger_L_4_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0/finger_R_0_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0/finger_R_0_1/finger_R_0_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0/finger_R_1_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0/finger_R_1_1/finger_R_1_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0/finger_R_2_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0/finger_R_2_1/finger_R_2_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0/finger_R_3_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0/finger_R_3_1/finger_R_3_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0/finger_R_4_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0/finger_R_4_1/finger_R_4_2
+        weight: 1
+      - path: body
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction_001
+      takeName: ArmatureAction_001
+      firstFrame: -1
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/ankle_L
+        weight: 1
+      - path: Armature/ankle_L/foot_L
+        weight: 1
+      - path: Armature/ankle_L/foot_L/toes_L
+        weight: 1
+      - path: Armature/ankle_R
+        weight: 1
+      - path: Armature/ankle_R/foot_R
+        weight: 1
+      - path: Armature/ankle_R/foot_R/toes_R
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/rootLower
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L/legLower_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L/legLower_L/foot_0_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R/legLower_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R/legLower_R/foot_0_R
+        weight: 1
+      - path: Armature/root/rootUpper
+        weight: 1
+      - path: Armature/root/rootUpper/chest
+        weight: 1
+      - path: Armature/root/rootUpper/chest/neck
+        weight: 1
+      - path: Armature/root/rootUpper/chest/neck/head
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0/finger_L_0_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0/finger_L_0_1/finger_L_0_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0/finger_L_1_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0/finger_L_1_1/finger_L_1_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0/finger_L_2_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0/finger_L_2_1/finger_L_2_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0/finger_L_3_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0/finger_L_3_1/finger_L_3_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0/finger_L_4_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0/finger_L_4_1/finger_L_4_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0/finger_R_0_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0/finger_R_0_1/finger_R_0_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0/finger_R_1_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0/finger_R_1_1/finger_R_1_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0/finger_R_2_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0/finger_R_2_1/finger_R_2_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0/finger_R_3_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0/finger_R_3_1/finger_R_3_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0/finger_R_4_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0/finger_R_4_1/finger_R_4_2
+        weight: 1
+      - path: body
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: globalhuman
+      takeName: globalhuman
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/ankle_L
+        weight: 1
+      - path: Armature/ankle_L/foot_L
+        weight: 1
+      - path: Armature/ankle_L/foot_L/toes_L
+        weight: 1
+      - path: Armature/ankle_R
+        weight: 1
+      - path: Armature/ankle_R/foot_R
+        weight: 1
+      - path: Armature/ankle_R/foot_R/toes_R
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/rootLower
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L/legLower_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L/legLower_L/foot_0_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R/legLower_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R/legLower_R/foot_0_R
+        weight: 1
+      - path: Armature/root/rootUpper
+        weight: 1
+      - path: Armature/root/rootUpper/chest
+        weight: 1
+      - path: Armature/root/rootUpper/chest/neck
+        weight: 1
+      - path: Armature/root/rootUpper/chest/neck/head
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0/finger_L_0_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0/finger_L_0_1/finger_L_0_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0/finger_L_1_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0/finger_L_1_1/finger_L_1_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0/finger_L_2_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0/finger_L_2_1/finger_L_2_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0/finger_L_3_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0/finger_L_3_1/finger_L_3_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0/finger_L_4_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0/finger_L_4_1/finger_L_4_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0/finger_R_0_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0/finger_R_0_1/finger_R_0_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0/finger_R_1_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0/finger_R_1_1/finger_R_1_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0/finger_R_2_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0/finger_R_2_1/finger_R_2_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0/finger_R_3_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0/finger_R_3_1/finger_R_3_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0/finger_R_4_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0/finger_R_4_1/finger_R_4_2
+        weight: 1
+      - path: body
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PoseLib
+      takeName: PoseLib
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/ankle_L
+        weight: 1
+      - path: Armature/ankle_L/foot_L
+        weight: 1
+      - path: Armature/ankle_L/foot_L/toes_L
+        weight: 1
+      - path: Armature/ankle_R
+        weight: 1
+      - path: Armature/ankle_R/foot_R
+        weight: 1
+      - path: Armature/ankle_R/foot_R/toes_R
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/rootLower
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L/legLower_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_L/legUpper_L/legLower_L/foot_0_L
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R/legLower_R
+        weight: 1
+      - path: Armature/root/rootLower/pelvis_R/legUpper_R/legLower_R/foot_0_R
+        weight: 1
+      - path: Armature/root/rootUpper
+        weight: 1
+      - path: Armature/root/rootUpper/chest
+        weight: 1
+      - path: Armature/root/rootUpper/chest/neck
+        weight: 1
+      - path: Armature/root/rootUpper/chest/neck/head
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0/finger_L_0_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/finger_L_0_0/finger_L_0_1/finger_L_0_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0/finger_L_1_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_1_0/finger_L_1_1/finger_L_1_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0/finger_L_2_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_2_0/finger_L_2_1/finger_L_2_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0/finger_L_3_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_3_0/finger_L_3_1/finger_L_3_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0/finger_L_4_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_L/armUpper_L/armLower_L/hand_L/finger_L_4_0/finger_L_4_1/finger_L_4_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0/finger_R_0_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/finger_R_0_0/finger_R_0_1/finger_R_0_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0/finger_R_1_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_1_0/finger_R_1_1/finger_R_1_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0/finger_R_2_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_2_0/finger_R_2_1/finger_R_2_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0/finger_R_3_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_3_0/finger_R_3_1/finger_R_3_2
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0/finger_R_4_1
+        weight: 1
+      - path: Armature/root/rootUpper/chest/shoulder_R/armUpper_R/armLower_R/hand_R/finger_R_4_0/finger_R_4_1/finger_R_4_2
+        weight: 1
+      - path: body
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
