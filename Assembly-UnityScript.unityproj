@@ -58,9 +58,17 @@
      <Compile Include="Assets\GUI Animator\GUI Animator FREE\Demo (JavaScript)\Scripts\GA_FREE_JS_OpenOtherScene.js" />
      <Compile Include="Assets\KY_effects\Script\ConGUI.js" />
      <Compile Include="Assets\KY_effects\Script\Lighting.js" />
+     <None Include="Assets\WellFired\shared\Uncompiled\Resources\Transitions\WellFiredWipeLeft.shader" />
+     <None Include="Assets\WellFired\shared\Uncompiled\Resources\Transitions\WellFiredDissolve.shader" />
+     <None Include="Assets\WellFired\shared\Uncompiled\Resources\Transitions\WellFiredWipeDown.shader" />
+     <None Include="Assets\AVProMovieCapture\Shaders\AVProMovieCapture_RGBA2YCbCr.shader" />
+     <None Include="Assets\AVProMovieCapture\Shaders\AVProMovieCapture_RedBlueSwap.shader" />
+     <None Include="Assets\WellFired\shared\Uncompiled\Resources\Transitions\WellFiredWipeUp.shader" />
      <None Include="Assets\KY_effects\MagicEffectsPackFree\ReadMe.txt" />
      <None Include="Assets\Elementals\Readme.txt" />
+     <None Include="Assets\AVProMovieCapture\Shaders\AVProMovieCapture_Shared.cginc" />
      <None Include="Assets\GUI Animator\GUI Animator FREE\Readme.txt" />
+     <None Include="Assets\WellFired\shared\Uncompiled\Resources\Transitions\WellFiredWipeRight.shader" />
      <None Include="Assets\GE Common Assets\Readme.txt" />
      <None Include="Assets\GUI Animator\GUI Animator FREE\!How to.txt" />
  <Reference Include="UnityEngine.UI">
@@ -70,10 +78,16 @@
  <HintPath>D:/Program Files/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="GETween">
- <HintPath>C:/Users/Erilyth/Desktop/ShortMovie/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
+ <HintPath>C:/Users/Erilyth/Desktop/Gogreatis-AnimationMovie/ShortMovie/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
  </Reference>
  <Reference Include="GUIAnimatorFREE">
- <HintPath>C:/Users/Erilyth/Desktop/ShortMovie/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
+ <HintPath>C:/Users/Erilyth/Desktop/Gogreatis-AnimationMovie/ShortMovie/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
+ </Reference>
+ <Reference Include="sharedRuntime">
+ <HintPath>C:/Users/Erilyth/Desktop/Gogreatis-AnimationMovie/ShortMovie/Assets/WellFired/shared/Compiled/Runtime/sharedRuntime.dll</HintPath>
+ </Reference>
+ <Reference Include="urecordRuntime">
+ <HintPath>C:/Users/Erilyth/Desktop/Gogreatis-AnimationMovie/ShortMovie/Assets/WellFired/urecord/Compiled/Runtime/urecordRuntime.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -45,6 +45,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AVProMovieCapture\DemoScenes\MovieCaptureDemo.cs" />
+     <Compile Include="Assets\AVProMovieCapture\DemoScenes\TextureCaptureDemo.cs" />
+     <Compile Include="Assets\AVProMovieCapture\DemoScenes\WebcamCaptureDemo.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCaptureBase.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCaptureFromCamera.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCaptureFromScene.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCaptureFromTexture.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCaptureGUI.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProMovieCapturePlugin.cs" />
+     <Compile Include="Assets\AVProMovieCapture\Scripts\AVProUnityAudioCapture.cs" />
      <Compile Include="Assets\AnimationOrb.cs" />
      <Compile Include="Assets\AnimationWeapon.cs" />
      <Compile Include="Assets\ArmyHumanCamera.cs" />
@@ -70,10 +80,31 @@
      <Compile Include="Assets\Spline Controller\MathUtils.cs" />
      <Compile Include="Assets\Spline Controller\SplineController.cs" />
      <Compile Include="Assets\Spline Controller\SplineInterpolator.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\IO\OtherIOHelper.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\IO\WebPlayerIOHelper.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\IO\WindowsAppStoreIOHelper.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\OpenInExplorer\IOpen.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\OpenInExplorer\LinuxOpen.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\OpenInExplorer\OSXOpen.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\OpenInExplorer\OpenFactory.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\OpenInExplorer\WinOpen.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\Reflection\OtherReflectionHelper.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\Reflection\WindowsAppStoreReflectionHelper.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\RuntimeProcessRunner.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\UnityEditor\EditorUnityEditorHelper.cs" />
+     <Compile Include="Assets\WellFired\shared\Uncompiled\Runtime\Platform Specific\UnityEditor\RuntimeUnityEditorHelper.cs" />
      <Compile Include="Assets\globalhuman.cs" />
+     <None Include="Assets\WellFired\shared\Uncompiled\Resources\Transitions\WellFiredWipeLeft.shader" />
+     <None Include="Assets\WellFired\shared\Uncompiled\Resources\Transitions\WellFiredDissolve.shader" />
+     <None Include="Assets\WellFired\shared\Uncompiled\Resources\Transitions\WellFiredWipeDown.shader" />
+     <None Include="Assets\AVProMovieCapture\Shaders\AVProMovieCapture_RGBA2YCbCr.shader" />
+     <None Include="Assets\AVProMovieCapture\Shaders\AVProMovieCapture_RedBlueSwap.shader" />
+     <None Include="Assets\WellFired\shared\Uncompiled\Resources\Transitions\WellFiredWipeUp.shader" />
      <None Include="Assets\KY_effects\MagicEffectsPackFree\ReadMe.txt" />
      <None Include="Assets\Elementals\Readme.txt" />
+     <None Include="Assets\AVProMovieCapture\Shaders\AVProMovieCapture_Shared.cginc" />
      <None Include="Assets\GUI Animator\GUI Animator FREE\Readme.txt" />
+     <None Include="Assets\WellFired\shared\Uncompiled\Resources\Transitions\WellFiredWipeRight.shader" />
      <None Include="Assets\GE Common Assets\Readme.txt" />
      <None Include="Assets\GUI Animator\GUI Animator FREE\!How to.txt" />
  <Reference Include="UnityEngine.UI">
@@ -83,10 +114,16 @@
  <HintPath>D:/Program Files/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="GETween">
- <HintPath>C:/Users/Erilyth/Desktop/ShortMovie/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
+ <HintPath>C:/Users/Erilyth/Desktop/Gogreatis-AnimationMovie/ShortMovie/Assets/GUI Animator/Common/Plugins/GETween.dll</HintPath>
  </Reference>
  <Reference Include="GUIAnimatorFREE">
- <HintPath>C:/Users/Erilyth/Desktop/ShortMovie/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
+ <HintPath>C:/Users/Erilyth/Desktop/Gogreatis-AnimationMovie/ShortMovie/Assets/GUI Animator/GUI Animator FREE/Plugins/GUIAnimatorFREE.dll</HintPath>
+ </Reference>
+ <Reference Include="sharedRuntime">
+ <HintPath>C:/Users/Erilyth/Desktop/Gogreatis-AnimationMovie/ShortMovie/Assets/WellFired/shared/Compiled/Runtime/sharedRuntime.dll</HintPath>
+ </Reference>
+ <Reference Include="urecordRuntime">
+ <HintPath>C:/Users/Erilyth/Desktop/Gogreatis-AnimationMovie/ShortMovie/Assets/WellFired/urecord/Compiled/Runtime/urecordRuntime.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

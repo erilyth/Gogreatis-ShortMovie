@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{DA54EB36-6F8E-E645-9A85-9AE614A0F6DB}") = "ShortMovie", "Assembly-CSharp.csproj", "{EBDDBC80-F897-B95F-8CC7-0600F2E98992}"
 EndProject
+Project("{DA54EB36-6F8E-E645-9A85-9AE614A0F6DB}") = "ShortMovie", "Assembly-CSharp-Editor.csproj", "{44510ADB-E600-6CFB-656B-FD8548BD9FEC}"
+EndProject
 Project("{DA54EB36-6F8E-E645-9A85-9AE614A0F6DB}") = "ShortMovie", "Assembly-UnityScript.unityproj", "{91E7F09E-0456-19FE-5C1A-EE87CEFE0A37}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{EBDDBC80-F897-B95F-8CC7-0600F2E98992}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBDDBC80-F897-B95F-8CC7-0600F2E98992}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBDDBC80-F897-B95F-8CC7-0600F2E98992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44510ADB-E600-6CFB-656B-FD8548BD9FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44510ADB-E600-6CFB-656B-FD8548BD9FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44510ADB-E600-6CFB-656B-FD8548BD9FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44510ADB-E600-6CFB-656B-FD8548BD9FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{91E7F09E-0456-19FE-5C1A-EE87CEFE0A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{91E7F09E-0456-19FE-5C1A-EE87CEFE0A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91E7F09E-0456-19FE-5C1A-EE87CEFE0A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
